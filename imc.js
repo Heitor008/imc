@@ -1,4 +1,3 @@
-
 function calcular(){
     let peso = Number(document.getElementById('txtp').value)
     let altura = Number(document.getElementById('txta').value)/100
